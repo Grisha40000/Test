@@ -1,1 +1,3 @@
-## Git test on GitHab
+# Git test on GitHab
+
+## Для того что бы передать информацию с локального компьютера на GitHab нужна команда git push.
